@@ -1,0 +1,24 @@
+header {
+  background-color: orange;
+  margin-bottom: 40px;
+}
+
+body {
+  font-family: sans-serif;;
+  color: black;
+}
+
+header h1{
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.character {
+  border: 1px solid black;
+  margin-bottom: 20px;
+
+}
